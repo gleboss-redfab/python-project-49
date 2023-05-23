@@ -1,3 +1,5 @@
+setup:	install lint build publish package-install
+
 install:
 	poetry install
 
@@ -13,8 +15,7 @@ publish:
 package-install:
 	python3 -m pip install --user --force-reinstall dist/*.whl 
 
-run:
-	brain-games
-
 lint:
 	poetry run flake8 brain_games
+
+
