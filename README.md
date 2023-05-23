@@ -4,4 +4,4 @@
 
 ## Brain Even game demo
 
-<script async id="asciicast-586635" src="https://asciinema.org/a/586635.js"></script>
+[![asciicast](https://asciinema.org/a/586635.svg)](https://asciinema.org/a/586635)
