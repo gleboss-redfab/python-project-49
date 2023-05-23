@@ -133,6 +133,17 @@ docs = ["furo (>=2023.3.27)", "proselint (>=0.13)", "sphinx (>=6.2.1)", "sphinx-
 test = ["appdirs (==1.4.4)", "covdefaults (>=2.3)", "pytest (>=7.3.1)", "pytest-cov (>=4)", "pytest-mock (>=3.10)"]
 
 [[package]]
+name = "prompt"
+version = "0.4.1"
+description = "Library for prompting input on the command line."
+optional = false
+python-versions = ">=3.3"
+files = [
+    {file = "prompt-0.4.1-py3-none-any.whl", hash = "sha256:98527de8dc3f0aa29669a39fbffeaf578ba6654dc836f737b6a5c6f9279002b7"},
+    {file = "prompt-0.4.1.tar.gz", hash = "sha256:8a7694b88f8c65188a983315e72582bf42fcc251b97042be1d2a2ad1aa0ebe0e"},
+]
+
+[[package]]
 name = "pylint"
 version = "2.17.4"
 description = "python code static checker"
@@ -280,4 +291,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "b8eb4addc353d7ecf5946f91204ec1d9f224950689251431c21c08b26c8c4b30"
+content-hash = "71fb60df9357b4e7005e3d8136ea89532f70429190fcd2a9220685c3937f7880"
