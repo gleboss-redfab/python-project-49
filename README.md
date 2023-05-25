@@ -17,3 +17,7 @@
 ## Brain Arithmetic Progression game demo
 
 [![asciicast](https://asciinema.org/a/56og02SbjmDDWgZ62wUywSrwL.svg)](https://asciinema.org/a/56og02SbjmDDWgZ62wUywSrwL)
+
+## Brain Is Prime game demo
+
+[![asciicast](https://asciinema.org/a/X9ExjRSYJiVlutILShOMWOvee.svg)](https://asciinema.org/a/X9ExjRSYJiVlutILShOMWOvee)
