@@ -5,3 +5,7 @@
 ## Brain Even game demo
 
 [![asciicast](https://asciinema.org/a/586635.svg)](https://asciinema.org/a/586635)
+
+## Brain Calc game demo
+
+[![asciicast](https://asciinema.org/a/t8EhkpWQGUNA7hA5c2A3QDGFZ.svg)](https://asciinema.org/a/t8EhkpWQGUNA7hA5c2A3QDGFZ)
