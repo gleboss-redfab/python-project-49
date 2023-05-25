@@ -13,3 +13,7 @@
 ## Brain GCD game demo
 
 [![asciicast](https://asciinema.org/a/X8XqHE31ZtwEfmDiBtFxzM0FZ.svg)](https://asciinema.org/a/X8XqHE31ZtwEfmDiBtFxzM0FZ)
+
+## Brain Arithmetic Progression game demo
+
+[![asciicast](https://asciinema.org/a/56og02SbjmDDWgZ62wUywSrwL.svg)](https://asciinema.org/a/56og02SbjmDDWgZ62wUywSrwL)
