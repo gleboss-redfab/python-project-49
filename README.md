@@ -1,14 +1,30 @@
-### Hexlet tests and linter status
+## Hexlet tests and linter status
 
 [![Actions Status](https://github.com/gleboss-redfab/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/gleboss-redfab/python-project-49/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/c95d285d23eef7c0f9a6/maintainability)](https://codeclimate.com/github/gleboss-redfab/python-project-49/maintainability)
 
+## Requirments
+
+- python => 3.6
+- pip => 19
+- poetry => 1.2.0
+
 ## Instalation
 
-Simple run:
+Configure poetry venv inside directory:
+
+```bash
+poetry config virtualenvs.in-project true
+```
+
+Install, build and publish (locally) packages:
 
 ```bash
 make setup
 ```
+
+Now yoy can play the games!
+
+# Games
 
 ## Brain Even
 
