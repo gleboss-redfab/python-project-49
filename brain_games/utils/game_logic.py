@@ -23,7 +23,8 @@ def start_game(game_rule: str, questions: list, answer_correct: list):
     Args:
         game_rule (str): game rules for user
         questions (list): questions text for user, 3 elements
-        answer_correct (list): correct answers for comparation, shoud be string, 3 elements
+        answer_correct (list): correct answers for comparation,
+                                shoud be string, 3 elements
     """
     print("Welcome to the Brain Games!")
     username = cli.welcome_user()

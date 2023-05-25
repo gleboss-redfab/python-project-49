@@ -22,7 +22,7 @@ def ask_question(question: str):
 def get_answer() -> str:
     """Get answer from user
     Returns:
-        str: answer 
+        str: answer
     """
     answer = prompt.string('Your answer: ')
     return answer
