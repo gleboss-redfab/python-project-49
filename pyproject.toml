@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "1st project in Python profession with brain games"
 authors = ["gleboss-redfab <gleb.v@redfab.ru>"]
 readme = "README.md"
+classifiers = ["Topic :: Games/Entertainment :: Arcade"]
+repository = "https://github.com/gleboss-redfab/python-project-49"
 packages = [
   { include = "brain_games" },
 ]

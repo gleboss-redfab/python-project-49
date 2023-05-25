@@ -14,7 +14,7 @@ def generate_progression(a0: int, difference: int, length: int) -> list:
     """
     result = []
     for i in range(length):
-        result.append(a0 + i*difference)
+        result.append(a0 + i * difference)
 
     return result
 
@@ -30,7 +30,7 @@ def start_brain_progression():
         a0 = random.randint(1, 100)
         difference = random.randint(-10, 10)
         length = random.randint(5, 15)
-        result_num = random.randint(0, length-1)
+        result_num = random.randint(0, length - 1)
 
         progression = generate_progression(a0, difference, length)
         answer = progression[result_num]
