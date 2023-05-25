@@ -9,3 +9,7 @@
 ## Brain Calc game demo
 
 [![asciicast](https://asciinema.org/a/t8EhkpWQGUNA7hA5c2A3QDGFZ.svg)](https://asciinema.org/a/t8EhkpWQGUNA7hA5c2A3QDGFZ)
+
+## Brain GCD game demo
+
+[![asciicast](https://asciinema.org/a/X8XqHE31ZtwEfmDiBtFxzM0FZ.svg)](https://asciinema.org/a/X8XqHE31ZtwEfmDiBtFxzM0FZ)
